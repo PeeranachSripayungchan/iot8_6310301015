@@ -15,6 +15,7 @@
         - {"air_pressure": "20"}
         - {"noise": "80"}
         - {"foam": "40"}
+        - {"washing_powder": "3"}
 
 ## temperature (Celcius)
 ## pressure (Pascal)
@@ -24,6 +25,7 @@
 ## air_pressure (Pascal)
 ## noise (decibel)
 ## foam (percent)
+## washing_powder (miligram)
 
  1. เซนเซอร์ภายนอกเครื่องซักผ้า
     - topic:v1cdti/app/get/6310301015/model-01/sn-001
